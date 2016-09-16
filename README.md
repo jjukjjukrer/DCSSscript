@@ -3,10 +3,14 @@
 <strong>웹죽 사용법1</strong><br>
 edit rc를 누른다.
 
-< <br>
+<
+
+
 function ready() <br>
 EvolutionTile()  <br>
-end>
+end
+
+>
 
 를 복사한다.
 
@@ -24,10 +28,14 @@ include += 새로운아이디.rc를 쓴다.<br>
 zip으로 다운로드해서 evtile.lua를 setting폴더안에 넣는다.<br>
 setting폴더안에 init.txt파일을 연다. <br>
 
-< <br>
+<
+
+<br>
 function ready() <br>
 EvolutionTile() <br>
-end >
+end 
+
+>
 
 를 써넣고<br>
 밑줄에 lua_file = evtile.lua 를 붙여넣는다.<br>
@@ -50,7 +58,7 @@ local min_level = 6 <br>
 종족별타일을 쓰고 이 레벨부터 원하는 타일로 변경된다.<br>
 
 
-data()
+<strong>data()</strong>
 race["Centaur"][m] = {[6]="tile:MONS_CENTAUR_WARRIOR_MELEE",[10]="nessos"}
 race["Centaur"][w] = {[6]="tile:MONS_CENTAUR_WARRIOR_MELEE",[10]="nessos"}
 
@@ -77,14 +85,14 @@ tile:mons_어쩌고로 작동되는 타일이라면 센타워리어타일처럼 
 예로들어 최소레벨이 6인데 [5]="ijyb"를 추가햇다면 적용되지 않는다.
 
 
-checkbg()
+<strong>checkbg()</strong>
 
 
 현재 마법스킬과 은신의 총합(발동,기도술제외)이 전투관련스킬보다 크면 법사형으로 판단되게 설정했다.
 
 해당사항이 맘에들지 않는다면 magus나 warrior에 들어갈 스킬목록을 조정하면 된다.
 
-메시지
+<Strong>메시지</strong>
 
 crawl.mpr() 의 내용을 원하는대로 수정하면된다.
 
