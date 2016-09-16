@@ -20,8 +20,8 @@ evtile.lua의 내용을 복사한다.
 자신의 원래 아이디의 rc를 연다.<br>
 include += 새로운아이디.rc를 쓴다.<br>
 
-<strong>다운죽</strong> 사용법
-zip으로 다운로드해서 evtile.lua를 setting폴더안에 넣는다.
+<strong>다운죽사용법</strong> <br>
+zip으로 다운로드해서 evtile.lua를 setting폴더안에 넣는다.<br>
 setting폴더안에 init.txt파일을 연다. <br>
 
 < <br>
