@@ -1,6 +1,6 @@
 질문은 로갤에다 하자 
 
-웹죽 사용법1<br>
+<strong>웹죽 사용법1<strong><br>
 edit rc를 누른다.
 
 < <br>
@@ -30,4 +30,7 @@ EvolutionTile() <br>
 end >
 
 를 써넣고
-밑줄에 lua_file = evtile.lua 를 붙여넣는다
+밑줄에 lua_file = evtile.lua 를 붙여넣는다.
+
+
+
