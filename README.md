@@ -3,14 +3,14 @@
 <strong>웹죽 사용법1</strong><br>
 edit rc를 누른다.
 
-<
+{
 
 
 function ready() <br>
 EvolutionTile()  <br>
 end
 
->
+}
 
 를 복사한다.
 
@@ -28,14 +28,14 @@ include += 새로운아이디.rc를 쓴다.<br>
 zip으로 다운로드해서 evtile.lua를 setting폴더안에 넣는다.<br>
 setting폴더안에 init.txt파일을 연다. <br>
 
-<
+{
 
 <br>
 function ready() <br>
 EvolutionTile() <br>
 end 
 
->
+}
 
 를 써넣고<br>
 밑줄에 lua_file = evtile.lua 를 붙여넣는다.<br>
