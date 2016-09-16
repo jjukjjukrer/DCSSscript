@@ -7,7 +7,7 @@ edit rc를 누른다
 function ready() <br>
 EvolutionTile()  <br>
 end <br>
->
+> 
 
 를 복사한다
 
@@ -23,7 +23,7 @@ setting폴더안에 init.txt파일을 연다
 function ready() <br>
 EvolutionTile() <br>
 end <br>
->
+> 
 
 를 써넣고
 밑줄에 lua_file = evtile.lua 를 붙여넣는다
