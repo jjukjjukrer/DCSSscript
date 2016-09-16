@@ -59,7 +59,7 @@ local min_level = 6 <br>
 
 
 <strong>data()</strong>
-race["Centaur"][m] = {[6]="tile:MONS_CENTAUR_WARRIOR_MELEE",[10]="nessos"}
+race["Centaur"][m] = {[6]="tile:MONS_CENTAUR_WARRIOR_MELEE",[10]="nessos"}<br>
 race["Centaur"][w] = {[6]="tile:MONS_CENTAUR_WARRIOR_MELEE",[10]="nessos"}
 
 이 내용은 6레벨때 센타워리어 타일 10레벨때 네소스 타일을 쓴다는 뜻
