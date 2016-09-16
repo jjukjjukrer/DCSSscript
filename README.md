@@ -4,10 +4,10 @@
 edit rc를 누른다
 
 < <br>
-function ready()
-EvolutionTile()
-end
->
+function ready() <br>
+EvolutionTile()  <br>
+end <br>
+> <br>
 
 를 복사한다
 
@@ -19,11 +19,11 @@ evtile.lua의 내용을 복사한다
 zip으로 다운로드해서 evtile.lua를 setting폴더안에 넣는다
 setting폴더안에 init.txt파일을 연다
 
-<
-function ready()
-EvolutionTile()
-end
->
+< <br>
+function ready() <br>
+EvolutionTile() <br>
+end <br>
+> <br>
 
 를 써넣고
 밑줄에 lua_file = evtile.lua 를 붙여넣는다
