@@ -3,7 +3,7 @@
 웹죽 사용법
 edit rc를 누른다
 
-<
+< <br>
 function ready()
 EvolutionTile()
 end
