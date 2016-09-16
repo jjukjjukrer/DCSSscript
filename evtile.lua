@@ -97,7 +97,7 @@ function EvolutionTile()
 
 local c_level = you.xl()
 
-if start or you.turns() == 0 then
+if start then
 if c_level < min_level then
 crawl.setopt("tile_player_tile = playermons")
 else
