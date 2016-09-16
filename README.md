@@ -58,7 +58,7 @@ local min_level = 6 <br>
 종족별타일을 쓰고 이 레벨부터 원하는 타일로 변경된다.<br>
 
 
-<strong>data()</strong>
+<strong>data()</strong><br>
 race["Centaur"][m] = {[6]="tile:MONS_CENTAUR_WARRIOR_MELEE",[10]="nessos"}<br>
 race["Centaur"][w] = {[6]="tile:MONS_CENTAUR_WARRIOR_MELEE",[10]="nessos"}
 
